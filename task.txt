@@ -1,0 +1,19 @@
+Programming:
+Git install: https://git-scm.com/downloads
+1. create an account on github
+2. create a directory called homework2
+2. create an html file in that directory (call it index.html) with some basic html and css - 10 point
+3. put some javascript in a file called homework2.js and reference it from a script tag from inside your html file.  The javascript file should contain the following:
+-at least two variables - 10 point
+-at least 2 arithmetic operators (e.g. +-*/) - 10 point
+-print at least one thing to the console - 5 point
+4. push your project to github
+-in github, click on the plus button on the top right and select 'new repository'
+-for the repository name, type homework2 and click the big green 'Create repository' button
+-follow the first set of instructions (using terminal, go to your directory and type the following - use the 'cd' command to change directories):
+git init
+git add .
+git commit -m "first commit"
+git remote add origin <put your project url here>
+git push -u origin master
+Now your project has been uploaded on github, congratulations :)

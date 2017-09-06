@@ -1,0 +1,24 @@
+* {
+	font-family: 'Libre Barcode 128 Text', cursive;
+}
+
+
+#firstDiv {
+	height: 100vh;
+	padding-top: 20px;
+	background-color: #68c5cc;
+	text-align: center;
+	overflow: auto;
+}
+
+#firstDiv h1 {
+	font-size: 80px; 
+}
+
+#firstDiv h2 {
+	font-size: 60px; 
+}
+
+#arithmetics h4 {
+	font-family: 'Verdana';
+}
